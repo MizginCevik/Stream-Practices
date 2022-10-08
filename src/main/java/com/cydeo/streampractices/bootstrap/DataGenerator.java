@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.bootstrap;
+package com.cydeo.streampractices.bootstrap;
 
-import com.cydeo.streampractice.model.*;
-import com.cydeo.streampractice.service.*;
+import com.cydeo.streampractices.model.*;
+import com.cydeo.streampractices.service.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

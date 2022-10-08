@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.service.impl;
+package com.cydeo.streampractices.service.impl;
 
-import com.cydeo.streampractice.model.Location;
-import com.cydeo.streampractice.service.LocationService;
+import com.cydeo.streampractices.model.Location;
+import com.cydeo.streampractices.service.LocationService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

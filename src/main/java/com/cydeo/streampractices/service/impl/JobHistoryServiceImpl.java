@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.service.impl;
+package com.cydeo.streampractices.service.impl;
 
-import com.cydeo.streampractice.model.JobHistory;
-import com.cydeo.streampractice.service.JobHistoryService;
+import com.cydeo.streampractices.model.JobHistory;
+import com.cydeo.streampractices.service.JobHistoryService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

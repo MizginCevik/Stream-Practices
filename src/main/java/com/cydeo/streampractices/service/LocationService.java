@@ -1,6 +1,6 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
-import com.cydeo.streampractice.model.Location;
+import com.cydeo.streampractices.model.Location;
 
 public interface LocationService extends CrudService<Location, Long> {
 }

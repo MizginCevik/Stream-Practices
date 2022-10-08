@@ -1,6 +1,6 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
-import com.cydeo.streampractice.model.JobHistory;
+import com.cydeo.streampractices.model.JobHistory;
 
 import java.util.List;
 

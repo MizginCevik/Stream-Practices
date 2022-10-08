@@ -1,4 +1,4 @@
-package com.cydeo.streampractice.model;
+package com.cydeo.streampractices.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

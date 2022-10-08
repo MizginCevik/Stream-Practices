@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.service.impl;
+package com.cydeo.streampractices.service.impl;
 
-import com.cydeo.streampractice.model.Country;
-import com.cydeo.streampractice.service.CountryService;
+import com.cydeo.streampractices.model.Country;
+import com.cydeo.streampractices.service.CountryService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

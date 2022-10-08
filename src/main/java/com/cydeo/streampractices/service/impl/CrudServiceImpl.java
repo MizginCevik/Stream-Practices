@@ -1,4 +1,4 @@
-package com.cydeo.streampractice.service.impl;
+package com.cydeo.streampractices.service.impl;
 
 import java.util.ArrayList;
 import java.util.HashMap;

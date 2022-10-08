@@ -1,6 +1,6 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
-import com.cydeo.streampractice.model.Employee;
+import com.cydeo.streampractices.model.Employee;
 
 public interface EmployeeService extends CrudService<Employee, Long> {
 }

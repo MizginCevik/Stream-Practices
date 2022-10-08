@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.practice;
+package com.cydeo.streampractices.practice;
 
-import com.cydeo.streampractice.model.*;
-import com.cydeo.streampractice.service.*;
+import com.cydeo.streampractices.model.*;
+import com.cydeo.streampractices.service.*;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

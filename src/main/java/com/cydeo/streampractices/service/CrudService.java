@@ -1,4 +1,4 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
-import com.cydeo.streampractice.model.Region;
+import com.cydeo.streampractices.model.Region;
 
 public interface RegionService extends CrudService<Region, Long> {
 }

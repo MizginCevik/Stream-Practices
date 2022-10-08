@@ -1,7 +1,7 @@
-package com.cydeo.streampractice.service.impl;
+package com.cydeo.streampractices.service.impl;
 
-import com.cydeo.streampractice.model.Job;
-import com.cydeo.streampractice.service.JobService;
+import com.cydeo.streampractices.model.Job;
+import com.cydeo.streampractices.service.JobService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

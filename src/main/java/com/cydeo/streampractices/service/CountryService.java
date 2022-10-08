@@ -1,6 +1,6 @@
-package com.cydeo.streampractice.service;
+package com.cydeo.streampractices.service;
 
-import com.cydeo.streampractice.model.Country;
+import com.cydeo.streampractices.model.Country;
 
 public interface CountryService extends CrudService<Country, String> {
 }
